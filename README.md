@@ -18,3 +18,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 # Deployed app
 https://desolate-sierra-68220.herokuapp.com/ 
+# Screenshot
+<img width="1440" alt="Screen Shot 2022-01-30 at 3 05 53 PM" src="https://user-images.githubusercontent.com/89959754/151717855-bbe2eb79-f205-40db-916c-d824ff2483fd.png">
+
+<img width="1552" alt="Screen Shot 2022-01-30 at 3 04 38 PM" src="https://user-images.githubusercontent.com/89959754/151717852-85fcc6f0-46b1-4e40-9a01-a07357e5f66d.png">
