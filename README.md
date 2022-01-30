@@ -19,6 +19,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 # Deployed app
 https://desolate-sierra-68220.herokuapp.com/ 
 # Screenshot
-<img width="1440" alt="Screen Shot 2022-01-30 at 3 05 53 PM" src="https://user-images.githubusercontent.com/89959754/151717855-bbe2eb79-f205-40db-916c-d824ff2483fd.png">
-
-<img width="1552" alt="Screen Shot 2022-01-30 at 3 04 38 PM" src="https://user-images.githubusercontent.com/89959754/151717852-85fcc6f0-46b1-4e40-9a01-a07357e5f66d.png">
+![Screen Shot 2022-01-30 at 3 08 00 PM](https://user-images.githubusercontent.com/89959754/151717904-0a3bf642-d475-4272-9b31-53517c1834fb.png)
+![Screen Shot 2022-01-30 at 3 08 15 PM](https://user-images.githubusercontent.com/89959754/151717908-75098b00-bc2c-44e6-b9f8-c9d8910b01ca.png)
